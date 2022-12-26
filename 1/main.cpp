@@ -1,4 +1,4 @@
-/**
+/*
 * @file modAlphaCipher.h
 * @author Пономарев В.А.
 * @version 1.0.0
