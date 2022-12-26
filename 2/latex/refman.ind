@@ -1,0 +1,21 @@
+\begin{theindex}
+
+  \item {cipher\_error}, \hyperpage{7}
+    \subitem {cipher\_error}, \hyperpage{8}
+  \item {coder}
+    \subitem {modAlphaCipher}, \hyperpage{10}
+
+  \indexspace
+
+  \item {decoder}
+    \subitem {modAlphaCipher}, \hyperpage{10}
+
+  \indexspace
+
+  \item {main.cpp}, \hyperpage{13}
+  \item {modAlphaCipher}, \hyperpage{9}
+    \subitem {coder}, \hyperpage{10}
+    \subitem {decoder}, \hyperpage{10}
+    \subitem {modAlphaCipher}, \hyperpage{9}
+
+\end{theindex}
