@@ -3,7 +3,7 @@
 * @author Пономарев В.А.
 * @version 1.0.0
 * @brief Заголовочный файл для модуля modAlphaCipher
-* @date 25.12.2022
+* @date 26.12.2022
 * @copyright ИБСТ ПГУ
 */
 #pragma once
@@ -13,7 +13,7 @@
 #include <codecvt>
 #include <locale>
 /* @class modAlphaCipher
- * @date 25.12.2022
+ * @date 26.12.2022
  * @file modAlphaCipher.h
  * @brief Шифрование методом Гронсфельда
  * @detalies Для зашифрования и расшифрования сообщения предназначены методы encrypt и decrypt. Текст на обработку передается в качестве параметра.
